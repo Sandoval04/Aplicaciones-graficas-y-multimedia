@@ -1,0 +1,41 @@
+nav
+{
+    background-color: blue;
+    width: 1887px;
+    height: 40px;
+}
+body
+{
+background-color: rgb(179, 179, 180);
+}
+h2 {
+    background-color: rgb(36, 72, 77);
+}
+section 
+{
+    width: 1500px;
+    height: 450px;
+    float: left;
+    margin-top: 10px;
+    background-color: rgb(255, 255, 255);
+}
+aside 
+{
+    margin-top: 10px;
+    width: 387px;
+    height: 350px;
+    background-color: orangered;
+    float: left;
+}
+p
+{
+background-color: rgb(54, 112, 163);
+}
+
+footer
+{
+    background-color: rgb(56, 54, 54);
+    width: 1887px;
+    margin-top: 10px;
+    float: left;
+}
