@@ -1,0 +1,106 @@
+body
+{
+    background-color: aliceblue;
+    width: 100vw;
+    height: auto;
+}
+.img
+{
+    padding: 2vh 2.5vw;
+    width: 20vw;
+    height: auto;
+}
+.Principal
+{
+    background-color: black;
+    width: 25vw;
+    height: auto;
+    text-align: center;
+    color: aliceblue;
+    font-size: 2.5vw;
+    float: left;
+}
+.title
+{
+    border-bottom: 2px solid goldenrod;
+}
+
+.block
+{
+    margin-top: 5%;
+    float: left;
+    width: 3vw;
+    height: 7vh;
+    background-color: gold;
+
+}
+.titleD
+{
+    margin-top: 5%;
+    background-color: grey;
+    float: left;
+    width: 20vw;
+    height: 7vh;
+}
+.Body2
+{
+    float: left;
+    width: 75vw;
+    height: auto;
+    font-size: 2vw;
+    background-color: aliceblue;
+}
+.up
+{
+    text-align: center;
+    height: 23vh;
+    background-color: gold;
+}
+.ntp
+{
+    text-align: center;
+    padding: 0vw 3vw;
+}
+.fecha
+{
+    float: left;
+}
+.texto3
+{
+    padding: 0vw 25vw;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    width: 30vw;
+}
+.txt
+{
+    border-bottom: 2px solid black;
+}
+.skill
+{
+    margin: 0;
+    padding: 0;
+}
+.skill1
+{
+    background-color: rgb(48, 42, 42);
+    height: auto;
+    width:37vw;
+    float: left;
+    text-align: center;
+}
+.skill2
+{
+    background-color: rgb(48, 42, 42);
+    height: auto;
+    width:37vw;
+    float: left;
+    text-align: center;
+}
+.titleU
+{
+    color: aliceblue;
+    width: 37vw;
+    height: auto;
+    }
