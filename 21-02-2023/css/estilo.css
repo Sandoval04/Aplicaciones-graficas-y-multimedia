@@ -1,0 +1,148 @@
+*
+{
+    margin: 0;
+    box-sizing: border-box;
+}
+body
+{
+    background-color: #f4f1f1;
+}
+.nav
+{
+    width: 100vw;
+    height: 10vh;
+    background-color: #A017B6;
+}
+.nav__links
+{
+    padding: 0 2vw;
+    text-decoration: none;
+    color: #000000;
+    font-size: 3vw;
+}
+.nav__ul
+{
+   text-align: right;
+   padding-top: 1.5%;
+    padding-right: 5%;
+}
+.nav_ubi-icon
+{
+    float: left;
+    width: 7vw;
+    height: 7vh;
+    margin-top: .5%;
+}
+.nav__search-icon
+{
+    margin-top: -3.5%;
+    float: right;
+    width: 7vw;
+    height: 7vh;
+}
+span
+{
+    display: block;
+}
+.Contenedor__top
+{
+    background: linear-gradient(rgb(255, 0, 140),rgb(25, 99, 184));
+    height: auto;
+    width: 100vw;
+}
+.Contenedor__top-title
+{
+    font-size: 4vw;
+    padding-top: 5%;
+    padding-left: 10vw;
+    color: #ffffff;
+}
+.Contenedor__top-texto
+{
+    padding: 2%;
+    color: #ffffff;
+    font-size: 1vw;
+    padding-left: 10vw;
+}
+
+.Contenedor__top-img
+{
+    width: 45vw;
+    height: auto;
+    margin-left: 55%;
+    position:absolute;
+    padding-top: 10%;
+}
+.Contenedor__linea
+{
+    box-sizing: border-box;
+    position: relative;
+    height: auto;   
+}
+.Contenedor__btn
+{
+    text-align: center;
+    color: rgb(109, 18, 86);
+    text-decoration: none;
+    
+}
+.Contenedor__btn-txt
+{
+    margin-top: -5vh;
+    font-size: 3vw;
+    margin-left: 13%;
+    width:15vw;
+    height: auto;
+    border: 5px solid rgb(211, 73, 119);
+    border-radius: 10vw;
+}
+.Contenedor__botton
+{
+    background-color: #f4f1f1;
+    position: absolute;
+    width: 100vw;
+    margin-top: -5vh;
+}
+.Contenedor__botton-title
+{
+    font-size: 3vw;
+    position: relative;
+    color: #000000;
+    text-align: center;
+}
+.Contenedor__botton-title2
+{
+    padding-top: 5vh;
+    font-size: 1vw;
+    padding-left: 10%;
+    color: #000000;
+}
+.Contenedor__botton-txt
+{
+    font-size: 1.5vw;
+    text-align: justify;
+    padding: 2vw;
+    margin: 5% 2vw 0 ;
+    width: 25vw;
+    height: 30vh;
+    background: linear-gradient(rgb(255, 0, 140),rgb(25, 99, 184));
+    float: left;
+    border-radius: 20px;
+}
+.Contenedor__botton-linea
+{
+    position: relative;
+    margin-top: -19vh;
+}
+.Contenedor__REDES
+{
+    position: relative;
+    z-index: 10;
+    text-align: center;
+}
+.Contenedor__botton-redes
+{
+    margin-top: 20vh;
+    width: 2vw;
+    height: 2vh;
+}
