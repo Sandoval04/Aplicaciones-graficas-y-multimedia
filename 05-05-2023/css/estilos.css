@@ -1,0 +1,53 @@
+
+.img {
+    margin: 0;
+    padding: 0;
+    background-image: url(/img/fondo1.png);
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.texto1
+{
+    color: #fff;
+    text-align: center;
+    padding-top: 45%;
+}
+span {
+    display: block;
+}
+.navbar-brand
+{
+    color: #fff;
+}
+.link1
+{
+    color: #fff;
+    text-decoration: #fff;
+}
+.btn
+{
+    margin-top: 2%;
+}
+.Buscar
+{
+    margin: 0;
+    background-color: rgb(6, 29, 9);
+}
+.t_t1
+{
+    color: #fff;
+    text-align: justify;
+    color: #337529;
+}
+.card-title
+{
+    padding-top: -40vh;
+    font-size: 2em;
+    color: #D2AC47;
+}
+.contenedor
+{
+    background-color: #333333;
+    color: #fff;
+}

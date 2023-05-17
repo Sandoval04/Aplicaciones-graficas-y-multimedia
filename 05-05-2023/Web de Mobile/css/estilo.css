@@ -1,0 +1,124 @@
+.container-fluid {
+  background-color: white;
+}
+body{
+align-items: center;
+}
+
+.fondo {
+  background-image: url("/img/Fondo.png");
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.Text1 {
+  padding-top: 50%;
+  text-align: center;
+  color: azure;
+}
+
+.Text2 {
+  padding-top: 90%;
+  text-align: center;
+  color: azure;
+}
+
+span {
+  display: block;
+}
+
+.contenedor {
+  width: 100%;
+  background-color: rgb(21, 59, 5);
+}
+.display-4 {
+  width: 100%;
+  text-align: center;
+  color: azure;
+}
+
+.btn {
+  width: 100%;
+  align-items: center;
+}
+.row{
+  text-align: center;
+}
+.form-check-label {
+  width: 100%;
+  text-align: center;
+}
+.Text0 {
+  color: white;
+  size: 1rem;
+}
+
+.contenedor2 {
+  background-color: white;
+  text-align: center;
+  color: rgb(21, 59, 5);
+}
+.fondo2 {
+  background-image: url("/img/Fondo2.jpeg");
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.fondo3 {
+  margin-top: 5%;
+  background-image: url("/img/Fondo3.jpeg");
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.fondo4 {
+  margin-top: 10%;
+  background-image: url("/img/Fondo4.jpeg");
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.fondo5 {
+  margin-top: 15%;
+  background-image: url("/img/Fondo5.jpeg");
+  height: 100%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.fondo6 {
+  margin-top: 20%;
+  background-image: url("/img/Fondo6.jpeg");
+  height: 90%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.fondo7 {
+  margin-top: 20%;
+  background-image: url("/img/Fondo7.jpeg");
+  height: 80%;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.contenedor1 {
+  padding-top: 2%;
+  background-color: rgb(19, 26, 26);
+  width: 100%;
+  color: rgb(255, 255, 255);
+  text-align: center;
+}
+
+.contenedor3 {
+  padding-top: 2%;
+  text-align: center;
+}
+.h4 {
+  padding-top: 2%;
+}
+.h6 {
+  padding-top: 3%;
+}
+.h5 {
+  padding-top: 3%;
+}
